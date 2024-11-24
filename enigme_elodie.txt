@@ -1,5 +1,6 @@
 Quelle sera la prochaine couleur de ma teinture de cheveux ?
 
+<<<<<<< HEAD
 
 Réponse Mathieu :
 Bleu
@@ -14,3 +15,7 @@ Réponse de Marc :
 Réponse Élodie :
 Mauve encore hahaha
 
+=======
+Réponse Mathieu :
+Bleu
+>>>>>>> b77cc1e (reponse mathieu sur fichier enigme_elodie.txt)
