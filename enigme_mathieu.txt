@@ -1,1 +1,2 @@
 Comment appelle-t-on un dépôt GitHub où tout le monde a accès sans permission ?
+Patricia: la réponse est "dépôt public".
