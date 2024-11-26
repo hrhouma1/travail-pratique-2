@@ -1,1 +1,1 @@
-echo "salutt";
+"ceci est une enigme" 
