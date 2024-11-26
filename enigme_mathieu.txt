@@ -1,3 +1,7 @@
 Comment appelle-t-on un dépôt GitHub où tout le monde a accès sans permission ?
 Élodie : Répertoire public
 
+<<<<<<< HEAD
+=======
+Sameneh: dépôt public
+>>>>>>> 8700a3b120777f286ea208da5307d5076d7b4d4b
