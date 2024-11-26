@@ -1,6 +1,7 @@
 Quelle sera la prochaine couleur de ma teinture de cheveux ?
 
 
+
 Réponse Mathieu :
 Bleu
 
@@ -15,3 +16,6 @@ Réponse Élodie :
 Mauve encore hahaha
 
 Réponse pour Haythem: fait
+
+Amir: la meme
+
