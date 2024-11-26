@@ -1,12 +1,8 @@
 Quelle sera la prochaine couleur de ma teinture de cheveux ?
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 Réponse Mathieu :
 Bleu
 
-<<<<<<< HEAD
 Réponse Juan_Hernandez :
 -Cyan(bleu-vert), love it! (Juan_Hernandez réponse).
 
@@ -16,16 +12,3 @@ Réponse de Marc :
 
 Réponse Élodie :
 Mauve encore hahaha
-
-=======
-Réponse Mathieu :
-Bleu
->>>>>>> b77cc1e (reponse mathieu sur fichier enigme_elodie.txt)
-=======
-Réponse Mathieu :
-Bleu
->>>>>>> c41ccbf (reponse mathieu sur fichier enigme_elodie.txt)
-=======
-Réponse Élodie :
-Mauve encore hahaha
->>>>>>> 4135700 (Réponse à mon enigme)
